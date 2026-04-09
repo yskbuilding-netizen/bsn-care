@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 웹 서버
-const PORT = 3000;
+const PORT = 5500;
 const mimeTypes = {
   '.html': 'text/html; charset=utf-8',
   '.css': 'text/css; charset=utf-8',
